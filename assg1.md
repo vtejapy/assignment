@@ -1,15 +1,15 @@
 Which of the following are valid names?
-        total
-        total_of_all_vegetables
-        big-title-1
-        _inner_func
-        1bigtitle
-        bigtitle1
+* total
+* total_of_all_vegetables
+* big-title-1
+* _inner_func
+* 1bigtitle
+* bigtitle1
 Which or the following pairs are the same name:
-        the_last_item and the_last_item
-        the_last_item and The_Last_Item
-        itemi and itemj
-        item1 and iteml
+* the_last_item and the_last_item
+* the_last_item and The_Last_Item
+* itemi and itemj
+* item1 and iteml
 
 Exercises2 :
 
